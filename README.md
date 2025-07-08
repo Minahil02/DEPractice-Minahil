@@ -1,0 +1,1 @@
+This program is taking name,age and marks from user then print these details along with their types.
