@@ -1,0 +1,1 @@
+This Python script demonstrates how to sort a pandas DataFrame by a specific column in descending order using the sort_values() method.
