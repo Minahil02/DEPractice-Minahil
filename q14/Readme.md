@@ -1,0 +1,1 @@
+This Python script generates a bar chart to visualize monthly sales data using pandas' built-in plotting functionality and matplotlib.
