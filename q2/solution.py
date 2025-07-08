@@ -10,7 +10,7 @@ class BankAccount:
   def withdraw(self,amount):
     if amount<= self.balance:
       self.balance -= amount
-      print(f"Withdrwan: {amount}, New Balance: {self.balance}")
+      print(f"Withdrwan: {amount} ,New Balance: {self.balance}")
     else:
       print("Not sufficient amount")
   def check_balance(self):
