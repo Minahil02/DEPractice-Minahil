@@ -1,0 +1,1 @@
+This Python script demonstrates how to extract year and month values from a datetime column in a pandas DataFrame.
